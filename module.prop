@@ -1,0 +1,7 @@
+id=NoFormat
+name=NoFormat · 反格机
+version=1.0
+versionCode=1
+author=东经雨
+description=阻止 rm/dd 的恶意格式化行为,自动设置SELinux
+updateJson=https://raw.githubusercontent.com/Dong-Jing-Yu/NoFormat-Module/main/update.json
