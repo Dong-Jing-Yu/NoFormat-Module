@@ -11,9 +11,15 @@
 
 ## 目录
 
+拦截
+
 ```
-/data/user/0/bin.mt.plus/files/term/bin
 /data/data/com.termux/files/usr/bin
 /system/bin
 /vendor/bin
+```
+
+修改文件内容
+```
+/data/user/0/bin.mt.plus/files/term/bin
 ```
