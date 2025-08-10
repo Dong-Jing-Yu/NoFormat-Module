@@ -8,3 +8,12 @@
 - [**KernelSU**](https://github.com/tiann/KernelSU)
   - [**KernelSU Next**](https://github.com/KernelSU-Next/KernelSU-Next)
 - [**APatch**](https://github.com/bmax121/APatch)
+
+## 目录
+
+```
+/data/user/0/bin.mt.plus/files/term/bin
+/data/data/com.termux/files/usr/bin
+/system/bin
+/vendor/bin
+```
